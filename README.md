@@ -1,16 +1,15 @@
-### Hi there 👋
+### 👋 Hey, I'm Jamie
 
-<!--
-**jamieecarr/jamieecarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![website badge](https://img.shields.io/badge/jamiec.io-gray?style=flat&logo=openlayers)](https://jamiec.io)
+[![dribbble badge](https://img.shields.io/badge/@jamiecarr-pink?style=flat&logo=dribbble)](https://dribbble.com/@jamiecarr)
+[![twitter badge](https://img.shields.io/badge/@jamiecio-blue?style=flat&logo=twitter)](https://twitter.com/jamiecio)
+[![medium badge](https://img.shields.io/badge/@jamiecarr-black?style=flat&logo=medium)](https://medium.com/@jamiecarr)
 
-Here are some ideas to get you started:
+I'm a Product Designer and Engineer, living in London.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working with [Macro](https://macro.io), building more collaborative and inclusive conversations on top of Zoom.
+
+- 🔭 I’m currently working on **building and scaling [Macro](https://macro.io), and maintaining my side project [Nod](https://nod.rocks)**
+- 🌱 I’m currently learning **Electron, React, and Objective C**
+- 💬 Ask me about **launching products, building communities, and scaling side projects**
+- 📫 How to reach me: **[Twitter](https://twitter.com/jamiecio)**
