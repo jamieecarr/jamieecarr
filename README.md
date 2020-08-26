@@ -13,5 +13,3 @@ Currently working with [Macro](https://macro.io), building more collaborative an
 - 🌱 I’m currently learning **Electron, React, and Objective C**
 - 💬 Ask me about **launching products, building communities, and scaling side projects**
 - 📫 How to reach me: **[Twitter](https://twitter.com/jamiecio)**
-
-![anim](https://github.com/jamieecarr/jamieecarr/blob/master/dino.gif?raw=true)
