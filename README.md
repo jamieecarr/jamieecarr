@@ -1,7 +1,7 @@
 ### 👋 Hey, I'm Jamie
 
 [![website badge](https://img.shields.io/badge/jamiec.io-gray?style=flat&logo=openlayers)](https://jamiec.io)
-[![dribbble badge](https://img.shields.io/badge/@jamiecarr-pink?style=flat&logo=dribbble)](https://dribbble.com/@jamiecarr)
+[![dribbble badge](https://img.shields.io/badge/@jamiecarr-pink?style=flat&logo=dribbble)](https://dribbble.com/jamiecarr)
 [![twitter badge](https://img.shields.io/badge/@jamiecio-blue?style=flat&logo=twitter)](https://twitter.com/jamiecio)
 [![medium badge](https://img.shields.io/badge/@jamiecarr-black?style=flat&logo=medium)](https://medium.com/@jamiecarr)
 
