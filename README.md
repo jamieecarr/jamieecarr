@@ -12,4 +12,4 @@ Currently working with [Macro](https://macro.io), building more collaborative an
 - 🔭 I’m currently working on **building and scaling [Macro](https://macro.io), and maintaining my side project [Nod](https://nod.rocks)**
 - 🌱 I’m currently learning **Electron, React, and Objective C**
 - 💬 Ask me about **launching products, building communities, and scaling side projects**
-- 📫 How to reach me: **[Twitter](https://twitter.com/jamiecio)**
+- 📫 How to reach me: **[Twitter](https://twitter.com/jamieecaa)**
