@@ -2,8 +2,6 @@
 
 ### I'm a Senior Software Engineer, currently in Austin, TX.
 
-</br>
-
 Currently working at [Mmhmm](https://mmhmm.app), helping build a more fun and engaging way for teams to communicate both synchronously and asynchronously.
 
 - 🏢 Currently working at Mmhmm
