@@ -9,4 +9,4 @@ Currently working at [Mmhmm](https://mmhmm.app), helping build a more fun and en
 - 💅 Always working on side projects: @nod, @gasmoney, @latetrain
 - 🌱 Learning all about Typescript & WebRTC
 - 💬 Ping me about everything frontend, design systems, scaling side projects
-- 📫 Reach me: [twitter.com/jameecaa]("https://twitter.com/jameecaa")
+- 📫 Reach me: [twitter.com/jameecaa](https://twitter.com/jameecaa)
