@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Jamie.
 
-## I'm a Senior Software Engineer, currently in Austin, TX.
+### I'm a Senior Software Engineer, currently in Austin, TX.
 
 </br>
 
