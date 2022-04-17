@@ -1,15 +1,14 @@
-### 👋 Hey, I'm Jamie
+# 👋 Hey, I'm Jamie.
 
-[![website badge](https://img.shields.io/badge/jamiec.io-gray?style=flat&logo=openlayers)](https://jamiec.io)
-[![dribbble badge](https://img.shields.io/badge/@jamiecarr-pink?style=flat&logo=dribbble)](https://dribbble.com/jamiecarr)
-[![twitter badge](https://img.shields.io/badge/@jamiecio-blue?style=flat&logo=twitter)](https://twitter.com/jamiecio)
-[![medium badge](https://img.shields.io/badge/@jamiecarr-black?style=flat&logo=medium)](https://medium.com/@jamiecarr)
+## I'm a Senior Software Engineer, currently in Austin, TX.
 
-I'm a Product Designer and Engineer, living in London.
+</br>
 
-Currently working with [Macro](https://macro.io), building more collaborative and inclusive conversations on top of Zoom.
+Currently working at [Mmhmm](https://mmhmm.app), helping build a more fun and engaging way for teams to communicate both synchronously and asynchronously.
 
-- 🔭 I’m currently working on **building and scaling [Macro](https://macro.io), and maintaining my side project [Nod](https://nod.rocks)**
-- 🌱 I’m currently learning **Electron, React, and Objective C**
-- 💬 Ask me about **launching products, building communities, and scaling side projects**
-- 📫 How to reach me: **[Twitter](https://twitter.com/jamieecaa)**
+- 🏢 Currently working at Mmhmm
+- ⚙️ Mostly writing: `.ts` `.tsx` `.css`
+- 💅 Always working on side projects: @nod, @gasmoney, @latetrain
+- 🌱 Learning all about Typescript & WebRTC
+- 💬 Ping me about everything frontend, design systems, scaling side projects
+- 📫 Reach me: [twitter.com/jameecaa]("https://twitter.com/jameecaa")
